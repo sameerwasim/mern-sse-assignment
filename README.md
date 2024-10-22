@@ -73,9 +73,10 @@ Implement the following queries for the **Fiverr Admin**:
 
 ## Submission Guidelines
 You are required to complete each task in a separate branch and create a pull request (PR) for each task. Follow the steps below for each task:
-1. For **Task 1**, create a branch named `task1` from `main` and create a PR to merge it back into `main`.
-2. For **Task 2**, create a branch named `task2` from `task1` and create a PR to merge it into `task1`.
-3. For **Task 3**, create a branch named `task3` from `task2` and create a PR to merge it into `task2`, and so on.
+1. **Fork** this repository into your own GitHub account before beginning the tasks. **You are not allowed to push to this repository.**
+2. For **Task 1**, create a branch named `task1` from `main` and create a PR to merge it back into `main`.
+3. For **Task 2**, create a branch named `task2` from `task1` and create a PR to merge it into `task1`.
+4. For **Task 3**, create a branch named `task3` from `task2` and create a PR to merge it into `task2`, and so on.
 
 You will explain your solutions as needed in each PR.
 Please send us your repo link when you are ready to submit.
